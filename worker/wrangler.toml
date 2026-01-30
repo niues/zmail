@@ -9,8 +9,8 @@ compatibility_date = "2025-03-01"
 # 启用 D1 数据库
 [[d1_databases]]
 binding = "DB"
-database_name = "lanbinglsyx"
-database_id = "d3ed2604-31cf-4e74-bacc-998a5437e84a"  # 需要替换为您的实际数据库 ID
+database_name = "mymail"
+database_id = "1b72bb8a-26e0-41a2-8852-cec14e1c1d37"  # 需要替换为您的实际数据库 ID
 
 # 配置邮件处理
 [triggers]
